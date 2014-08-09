@@ -170,4 +170,4 @@ DNS-запросы очень экономны - по сети отсылает�
 [13]: https://igrigorik.github.io/resource-hints/
 [14]: http://www.webpagetest.org/
 
-[Поддержка браузерами]: img/1*0g7GBnQNFLTjApR-Fp1Q5A-ru.png
+[Поддержка браузерами]: img/Fp1Q5A-ru.png

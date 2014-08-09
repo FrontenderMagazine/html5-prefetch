@@ -170,4 +170,4 @@ In a checkout flow why not start getting the next page resources while the user 
 [13]: https://igrigorik.github.io/resource-hints/
 [14]: http://www.webpagetest.org/
 
-[Browser Support]: img/1*0g7GBnQNFLTjApR-Fp1Q5A.png
+[Browser Support]: img/Fp1Q5A.png
