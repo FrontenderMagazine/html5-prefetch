@@ -65,7 +65,7 @@ Chrome][2] очищается, по крайней мере, раз в неде�
 прогнозе, он даже может запустить предварительную отрисовку страницы, эта
 функция получила название «мгновенные страницы» (instant pages).
 
-<iframe data-width="854" data-height="480" src="/media/143ac85fb3e19ac25e49dc91ab495d14?maxWidth=700" data-media-id="143ac85fb3e19ac25e49dc91ab495d14" frameborder="0" height="393" width="700"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Jn93FDx9oI" frameborder="0" allowfullscreen></iframe>
 
 *[https://www.youtube.com/watch?feature=player_embedded&v=_Jn93FDx9oI][4]*
 
